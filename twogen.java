@@ -10,7 +10,7 @@ class twogen<t,v>{
 		return ob1;
 	}
 	v getob2() {
-		return ob2;
+		return ob2 ;
 	}
 	void show() {
 		System.out.println("the type of t is"+ob1.getClass().getName());
@@ -26,6 +26,6 @@ public class simpgen {
 		int v=clobj.getob1();
 		System.out.println("value "+v);
 		String str=clobj.getob2();
-		System.out.println("value "+str);
+		System.out.println("value ="+str);
 	}
 }
