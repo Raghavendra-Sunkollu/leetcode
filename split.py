@@ -4,4 +4,5 @@ x = txt.split()
 k=x.count('the')
 print(x)
 print(k)
+print("working")
 
