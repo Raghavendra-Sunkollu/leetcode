@@ -5,3 +5,4 @@ k=x.count('the')
 print(x)
 print(k)
 
+
