@@ -24,7 +24,7 @@ public class simpgen {
 		twogen<Integer,String> clobj=new twogen<Integer,String>(100,"hello iam two type geniric");
 		clobj.show();
 		int v=clobj.getob1();
-		System.out.println("value "+v);
+		System.out.println("value= "+v);
 		String str=clobj.getob2();
 		System.out.println("value ="+str);
 	}
