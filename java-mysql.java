@@ -21,7 +21,7 @@ public class prepared_statement {
 		System.out.println(s4);
 		
 		c.close();
-		System.out.println("record updated sucessfully");
+		System.out.println("record updated sucessfully ");
 		
 		}
 		catch(Exception k) {
@@ -30,3 +30,4 @@ public class prepared_statement {
 	}
 
 }
+
